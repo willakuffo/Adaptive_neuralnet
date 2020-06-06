@@ -1,2 +1,3 @@
 # Adaptive_neuralnet
-Neural net adapts to training dataser
+Expermenting with a Neural net adapts to training dataset
+
